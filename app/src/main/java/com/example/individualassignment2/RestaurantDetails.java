@@ -15,7 +15,7 @@ public class RestaurantDetails extends AppCompatActivity {
 //    private int[] images = {R.drawable.sokyo, R.drawable.restaurant_hubert, R.drawable.gelato_messina, R.drawable.bourke_street_bakery, R.drawable.cow_and_the_moon,
 //            R.drawable.bennelong_restaurant, R.drawable.lumi_bar_and_dining, R.drawable.baxter_inn, R.drawable.mappen_noodle_restaurant, R.drawable.cafe_cre_asion};
 
-
+//Create detail activity for recyclerview clickable
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
